@@ -15,7 +15,6 @@ export default function Home() {
             setNews(response.data.articles)
         }
         catch (error) {
-            <h1>error</h1>
             console.log(error)
         }
 
