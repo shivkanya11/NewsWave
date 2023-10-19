@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from 'react'
-// import Navbar from '../component/Navbar/Navbar'
-// import Footer from '../component/Footer/Footer'
 import axios from 'axios'
 import './Home.css'
 import NewsCard from './../../component/NewsCard/NewsCard'
